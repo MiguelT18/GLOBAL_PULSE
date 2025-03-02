@@ -4,11 +4,14 @@
 
 ## 📌 Tabla de Contenidos
 
-1. [Estructura del Proyecto](#estructura-del-proyecto)
-2. [Instalación](#instalación)
-3. [Uso](#uso)
-4. [Contribución](#contribución)
-5. [Licencia](#licencia)
+1. [📂 Estructura del Proyecto](#-estructura-del-proyecto)
+2. [⚙️ Instalación](#️-instalación)
+   - [📥 Clonar el repositorio](#clonar-el-repositorio)
+   - [🔧 Configurar el entorno](#configurar-el-entorno)
+   - [🚀 Construir y levantar los servicios](#construir-y-levantar-los-servicios)
+3. [🚀 Uso](#-uso)
+4. [🛠️ Contribución](#️-contribución)
+5. [📜 Licencia](#-licencia)
 
 ---
 
