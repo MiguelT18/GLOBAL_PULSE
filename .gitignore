@@ -1,0 +1,42 @@
+# FRONTEND DATA IGNORED
+
+# dependencies
+**/node_modules/
+.pnp
+.pnp.*
+
+# Yarn
+/.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+**/coverage/
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Next.js (en caso de que haya más de un frontend)
+**/.next/
+**/out/
+
+# production builds
+**/build/
+
+# Misc
+.DS_Store
+*.pem
+
+# Ignorar todo lo generado dentro de frontend/
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.*
+frontend/.yarn/*
+frontend/coverage/
+frontend/.turbo/
+frontend/.cache/
+frontend/.eslintcache
+frontend/.swc/
