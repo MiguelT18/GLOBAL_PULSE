@@ -1,3 +1,32 @@
+# BACKEND DATA IGNORED
+
+# Archivos de caché de Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Entorno virtual de Python
+venv/
+.venv/
+
+# Archivos de configuración sensibles (si los manejas localmente)
+apps/backend/app/config.py
+apps/backend/.env
+apps/backend/app/.env
+
+# Dependencias del backend (si usas pipenv o poetry)
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Logs y archivos temporales
+apps/backend/*.log
+apps/backend/logs/
+apps/backend/tmp/
+apps/backend/.cache/
+
+
 # FRONTEND DATA IGNORED
 
 # dependencies
