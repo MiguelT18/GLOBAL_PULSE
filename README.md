@@ -94,6 +94,6 @@ sudo docker compose up --build -d
 3. Realiza tus cambios y haz commits descriptivos.
 4. Envía un Pull Request detallando los cambios realizados.
 
-📄 Licencia
+# 📄 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
