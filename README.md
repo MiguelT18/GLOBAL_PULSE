@@ -1,6 +1,6 @@
-# GLOBAL_PULSE
+# SELLSENSE
 
-**GLOBAL_PULSE** es un proyecto diseñado para ofrecer de forma sencilla e intuitiva la información y los datos relevantes de todo lo que se necesita saber para aprovechar el funcionamiento de infoproductos y PLRs. Este monorepositorio alberga múltiples aplicaciones y paquetes que trabajan en conjunto para Vender rápido y sin tener que contar con suerte, porque ya tienes todo validado de la mano: Anuncios, Creativos, Segmentación, Páginas y Videos de Venta.
+**SELLSENSE** es un proyecto diseñado para ofrecer de forma sencilla e intuitiva la información y los datos relevantes de todo lo que se necesita saber para aprovechar el funcionamiento de infoproductos y PLRs. Este monorepositorio alberga múltiples aplicaciones y paquetes que trabajan en conjunto para Vender rápido y sin tener que contar con suerte, porque ya tienes todo validado de la mano: Anuncios, Creativos, Segmentación, Páginas y Videos de Venta.
 
 ## 📌 Tabla de Contenidos
 
@@ -20,7 +20,7 @@
 La estructura del monorepositorio es la siguiente:
 
 ```bash
-GLOBAL_PULSE/
+SELLSENSE/
 ├── apps/
 │   ├── backend/
 │   │   ├── app.py
@@ -46,8 +46,8 @@ Para poner en marcha el proyecto en un entorno local, sigue estos pasos:
 ## Clonar el repositorio
 
 ```bash
-git clone https://github.com/MiguelT18/GLOBAL_PULSE.git
-cd GLOBAL_PULSE
+git clone https://github.com/MiguelT18/SELLSENSE.git
+cd SELLSENSE
 ```
 
 ## Configurar el entorno
