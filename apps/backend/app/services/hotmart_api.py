@@ -60,9 +60,6 @@ class HotmartAPI:
         try:
             response = requests.get(url, headers=self.headers)
 
-            print(f"🔹 Código de estado: {response.status_code}")
-            print(f"🔹 Respuesta cruda: {response.text}")
-
             if response.status_code == 200:
                 if not response.text.strip():
                     print("⚠️ La API de Hotmart devolvió una respuesta vacía.")
